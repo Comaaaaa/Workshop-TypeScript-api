@@ -21,6 +21,10 @@ npm install express mongoose dotenv typescript ts-node @types/node @types/expres
 
 To run tests, run the following command
 
+```
+npm start
+```
+
 We can modify our package.json file 
 ```
   "scripts": {
